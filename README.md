@@ -1,5 +1,5 @@
 #Machine Learning
-####This repository contains a variety of algorithms for machine learning in Python.
+This repository contains a variety of algorithms for machine learning in Python.
 ---
 ###Summary of contents:
 Algorithm | Application | Sample Dataset
