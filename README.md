@@ -1,6 +1,11 @@
 # Machine Learning
 
-This repository contains a variety of algorithms for machine learning in Python.
+This repository contains a variety of algorithms for machine learning in Python. Algorithms make use of the following libraries:
+
+* sklearn
+* pandas
+* numpy
+* matplotlib
 
 ---
 ### Summary of contents:
